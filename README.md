@@ -1,0 +1,2 @@
+# Kami
+Inteligencia virtual (IA)
